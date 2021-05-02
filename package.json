@@ -1,0 +1,30 @@
+{
+    "name": "french-rose-theme",
+    "description": "French-Rose Theme for VS Code",
+    "publisher": "french-rose-theme",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "icon": "src/french-rose.jpg",
+    "author": {
+        "name": "Deniz ÖZTÜRK",
+        "email": "deniz@ozturk.io"
+    },
+    "repository": {
+        "url": "https://github.com/denizozturk/french-rose-theme.git",
+        "type": "git"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "french-rose-theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/french-rose-theme.json"
+            }
+        ]
+    }
+}
