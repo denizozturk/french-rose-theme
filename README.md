@@ -2,7 +2,7 @@
 Marketplace: [French-Rose Theme](https://marketplace.visualstudio.com/items?itemName=french-rose-theme.french-rose-theme)
 
 ## Preview
-![preview](src/french-rose-screenshot.png)
+![preview](https://github.com/denizozturk/french-rose-theme/raw/main/src/french-rose-screenshot.png)
 
 ## Installation
 - Install or Launch Visual Studio Code
